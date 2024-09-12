@@ -1,6 +1,12 @@
 # bootstrap
 List of personal scripts to bootstrap things
 
+## Helpers
+
+Install all mise collections:
+```
+./bin/fetch-mrjk-asdf.sh >> ~/.config/mise/shorthands.toml
+```
 
 ## Repos Collections
 
